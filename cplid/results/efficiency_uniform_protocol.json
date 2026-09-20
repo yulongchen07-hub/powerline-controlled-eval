@@ -1,0 +1,37 @@
+{
+  "baseline": {
+    "params_M": 11.136,
+    "FLOPs_G": 28.64,
+    "FPS_unfused": 155.1
+  },
+  "sppf": {
+    "params_M": 11.301,
+    "FLOPs_G": 29.17,
+    "FPS_unfused": 150.7
+  },
+  "lka": {
+    "params_M": 11.222,
+    "FLOPs_G": 28.91,
+    "FPS_unfused": 143.0
+  },
+  "deform": {
+    "params_M": 11.789,
+    "FLOPs_G": 28.85,
+    "FPS_unfused": 124.3
+  },
+  "dlka": {
+    "params_M": 11.287,
+    "FLOPs_G": 29.12,
+    "FPS_unfused": 44.3
+  },
+  "maff": {
+    "params_M": 11.181,
+    "FLOPs_G": 28.65,
+    "FPS_unfused": 111.3
+  },
+  "madnet": {
+    "params_M": 11.331,
+    "FLOPs_G": 29.12,
+    "FPS_unfused": 39.7
+  }
+}

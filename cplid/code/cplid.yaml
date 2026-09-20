@@ -1,0 +1,9 @@
+# Directory produced by the preparation script (relative to WORK_DIR, default: the current directory).
+path: ./data/cplid_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: insulator
+  1: defect
